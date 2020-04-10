@@ -1,0 +1,46 @@
+body{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+   
+    width: 5rem;
+    height:4rem;
+    
+   
+}
+
+#inner1 {
+    position:absolute;
+    top:10%;
+    left:17%;
+  }
+
+  #text1 {
+
+    position:absolute;
+   font-size: large;
+   top:30%;
+   left:17%;
+  }
+
+  .button{
+    position:absolute;
+    top:50%;
+    left:17%;
+  } 
+
+  .card-group h5,img {
+    text-align: center;
+    
+  }
+
+   #icon{
+    
+     height: 40px;
+     width: 40px;
+     margin-left: 11rem;
+     margin-top: 2rem;
+         
+   }
